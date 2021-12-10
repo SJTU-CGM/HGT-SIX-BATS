@@ -29,3 +29,4 @@ while(<BED>){
 
 close FA;close BED;close OUT;
 exit;
+
