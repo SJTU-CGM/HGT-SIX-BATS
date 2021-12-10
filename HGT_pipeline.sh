@@ -1,9 +1,9 @@
 #!/bin/bash
 
-###############################
-### pipeline to identify HGTs # 
-### example: Danio rerio(NCBI)#
-###############################
+################################
+### pipeline to identify HGTs ##
+### example: Danio rerio(NCBI)##
+################################
 
 ###  Directroy prepration
 mkdir bmfish data src 
