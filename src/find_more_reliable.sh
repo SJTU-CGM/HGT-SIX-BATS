@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/fish_hgt/bmfish/new_blast_result/
+cd ~/bmfish/new_blast_result/
 #find more reliable
 mkdir non_redundant
 cp $1_all_level1.out ./non_redundant/
